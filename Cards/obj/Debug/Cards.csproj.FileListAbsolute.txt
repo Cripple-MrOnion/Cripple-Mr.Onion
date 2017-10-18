@@ -1,0 +1,7 @@
+C:\Users\Robert Carabotta\source\repos\Cards\bin\Debug\Cards.exe.config
+C:\Users\Robert Carabotta\source\repos\Cards\bin\Debug\Cards.exe
+C:\Users\Robert Carabotta\source\repos\Cards\bin\Debug\Cards.pdb
+C:\Users\Robert Carabotta\source\repos\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\Robert Carabotta\source\repos\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+C:\Users\Robert Carabotta\source\repos\Cards\obj\Debug\Cards.exe
+C:\Users\Robert Carabotta\source\repos\Cards\obj\Debug\Cards.pdb

@@ -3,27 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Class1
+namespace ClassCards
 {
     public class Card
     {
-        public Rank rank;
         public Suit suit;
+        public Rank rank;
 
         public Card(Suit nSuit, Rank nRank)
         {
-
             suit = nSuit;
             rank = nRank;
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        public override string ToString()
+        {
+            return rank.ToString() + " of " + suit.ToString();
 
         }
 
-        
-        /*public override string ToString()
-        {
-           
-        }*/
-        
-        
-    }
+
+    } // end class Card
 }

@@ -3,10 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Class1
+namespace ClassCards
 {
     public enum Suit
     {
-        Club,Diamond,Heart,Space,
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades,
+        
     }
 }

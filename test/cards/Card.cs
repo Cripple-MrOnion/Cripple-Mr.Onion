@@ -14,18 +14,12 @@ namespace ClassCards
         {
             suit = nSuit;
             rank = nRank;
-        }
+        } // end constructor
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <returns></returns>
+        /// <summary>toString method</summary>
         public override string ToString()
         {
             return rank.ToString() + " of " + suit.ToString();
-
         }
-
-
     } // end class Card
-}
+} // namespace ClassCards 

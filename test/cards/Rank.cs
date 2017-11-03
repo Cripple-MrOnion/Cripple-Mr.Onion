@@ -21,4 +21,4 @@ namespace ClassCards
         Queen = 12,
         King = 13,
     }
-}
+} // namespace ClassCards 

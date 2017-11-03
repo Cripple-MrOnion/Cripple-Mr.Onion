@@ -9,29 +9,14 @@ namespace ClassCards
 {
     class Cards : CollectionBase
     {
-        public void Add(Card nCard)
-        {
-            List.Add(nCard);
-        }
-
-        public void Remove(Card oCard)
-        {
-            List.Remove(oCard);
-        }
+        public void Add(Card nCard) { List.Add(nCard); }
+        public void Remove(Card oCard) { List.Remove(oCard); }
 
         public Card this[int cIndex]
         {
-            get
-            {
-                return (Card)List[cIndex];
-            }
+            get { return (Card)List[cIndex]; }
 
-            set
-            {
-                List[cIndex] = value;
-            }
-
-
+            set { List[cIndex] = value; }
         }
 
         public void CopyTo(Cards initialCards)
@@ -43,6 +28,5 @@ namespace ClassCards
 
         }
 
-
     } //  end class Cards
-}
+} // namespace ClassCards 

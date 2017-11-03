@@ -2,15 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ClassCards
 {
-    public enum Suit
+    class Game
     {
-        Clubs,
-        Diamonds,
-        Hearts,
-        Spades,
+
+
 
     }
-} // namespace ClassCards 
+}

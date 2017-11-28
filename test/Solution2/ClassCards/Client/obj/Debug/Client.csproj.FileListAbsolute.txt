@@ -1,0 +1,9 @@
+C:\Users\me\source\repos\ClassCards\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\ClassCards\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\me\source\repos\ClassCards\Client\bin\Debug\Client.exe.config
+C:\Users\me\source\repos\ClassCards\Client\bin\Debug\Client.exe
+C:\Users\me\source\repos\ClassCards\Client\bin\Debug\Client.pdb
+C:\Users\me\source\repos\ClassCards\Client\bin\Debug\ClassCards.dll
+C:\Users\me\source\repos\ClassCards\Client\bin\Debug\ClassCards.pdb
+C:\Users\me\source\repos\ClassCards\Client\obj\Debug\Client.exe
+C:\Users\me\source\repos\ClassCards\Client\obj\Debug\Client.pdb

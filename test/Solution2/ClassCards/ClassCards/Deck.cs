@@ -16,17 +16,22 @@ namespace ClassCards
         /// <summary>Creates and initialize all cards</summary>
         public Deck()
         {
-            TotalSuit = Enum.GetValues(typeof(Suit)).Length;
+            TotalSuit = Enum.GetValues(typeof(SuitCmo)).Length;
             TotalRank = Enum.GetValues(typeof(Rank)).Length;
 
-            for (int suit = 0; suit < TotalSuit; suit++)
+            for (int suitCounter = 0; suitCounter < TotalSuit; suitCounter++)
             {
-                for (int rank = 1; rank <= TotalRank; rank++)
+                for (int rankCounter = 1; rankCounter <= TotalRank; rankCounter++)
                 {
-                    cards.Add(new Card((Suit)suit, (Rank)rank));
+                    cards.Add(new Card((SuitCmo)suitCounter, (Rank)rankCounter));
                 }
             }
         } // end constructor 
+
+        private Deck(Cards newCards)
+        {
+            cards = newCards;
+        }
 
         /// <summary>Return Card object with the specified index</summary>
         public Card GetCard(int nCard)
@@ -69,30 +74,5 @@ namespace ClassCards
         } // end method Shuffle 
 
     } // end class Deck
-
-
-    /// <summary> Add method </summary>
-    // add()
-
-
-    /// <summary>Deal method</summary>
-    // deal()
-
-
-    /// <summary>Get Card Names</summary>
-    // getCardNames()
-
-
-    /// <summary>Reset Deck</summary>
-    // resetDeck()
-
-
-    /// <summary>peek</summary>
-    // peek()
-
-    /// <summary>Contains certain value</summary>
-    // contains()
-
-
 } // namespace ClassCards 
 

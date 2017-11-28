@@ -7,10 +7,10 @@ namespace ClassCards
 {
     public class Card
     {
-        public Suit suit;
+        public SuitCmo suit;
         public Rank rank;
 
-        public Card(Suit nSuit, Rank nRank)
+        public Card(SuitCmo nSuit, Rank nRank)
         {
             suit = nSuit;
             rank = nRank;

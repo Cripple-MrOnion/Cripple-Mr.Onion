@@ -1,0 +1,5 @@
+C:\Users\me\source\repos\ClassCards\ClassCards\bin\Debug\ClassCards.dll
+C:\Users\me\source\repos\ClassCards\ClassCards\bin\Debug\ClassCards.pdb
+C:\Users\me\source\repos\ClassCards\ClassCards\obj\Debug\ClassCards.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\ClassCards\ClassCards\obj\Debug\ClassCards.dll
+C:\Users\me\source\repos\ClassCards\ClassCards\obj\Debug\ClassCards.pdb

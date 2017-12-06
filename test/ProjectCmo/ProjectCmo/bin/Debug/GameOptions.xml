@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<GameOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SelectedPlayers>
+    <string>Jennifer</string>
+    <string>John</string>
+    <string>Alex</string>
+    <string>Elizabeth</string>
+  </SelectedPlayers>
+  <PlayerNames>
+    <string>John</string>
+    <string>Alex</string>
+    <string>Jennifer</string>
+    <string>Elizabeth</string>
+  </PlayerNames>
+  <NumberOfPlayers>4</NumberOfPlayers>
+</GameOptions>

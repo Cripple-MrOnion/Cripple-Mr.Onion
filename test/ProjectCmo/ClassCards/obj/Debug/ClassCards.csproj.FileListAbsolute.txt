@@ -1,0 +1,12 @@
+c:\users\me\source\repos\ProjectCmo\ClassCards\bin\Debug\ClassCards.dll
+c:\users\me\source\repos\ProjectCmo\ClassCards\bin\Debug\ClassCards.pdb
+c:\users\me\source\repos\ProjectCmo\ClassCards\obj\Debug\ClassCards.csprojResolveAssemblyReference.cache
+c:\users\me\source\repos\ProjectCmo\ClassCards\obj\Debug\ClassCards.csproj.CoreCompileInputs.cache
+c:\users\me\source\repos\ProjectCmo\ClassCards\obj\Debug\ClassCards.dll
+c:\users\me\source\repos\ProjectCmo\ClassCards\obj\Debug\ClassCards.pdb
+C:\Users\me\Desktop\finalsubmit\ProjectCmo\ClassCards\bin\Debug\ClassCards.dll
+C:\Users\me\Desktop\finalsubmit\ProjectCmo\ClassCards\bin\Debug\ClassCards.pdb
+C:\Users\me\Desktop\finalsubmit\ProjectCmo\ClassCards\obj\Debug\ClassCards.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\finalsubmit\ProjectCmo\ClassCards\obj\Debug\ClassCards.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\finalsubmit\ProjectCmo\ClassCards\obj\Debug\ClassCards.dll
+C:\Users\me\Desktop\finalsubmit\ProjectCmo\ClassCards\obj\Debug\ClassCards.pdb
